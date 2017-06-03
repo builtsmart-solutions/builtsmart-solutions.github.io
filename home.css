@@ -30,7 +30,7 @@ h2 {
   position: absolute;
   left: -5000px;
 }
-.button {
+#mc_embed_signup .button {
   background-color: #00c4ff;
   height: 50px;
   width: 120px;
@@ -43,7 +43,7 @@ h2 {
 }
 
 
-input {
+#mc_embed_signup input .email {
   height: 50px;
   border-radius: 5px;
   border: 1px solid lightgray;
