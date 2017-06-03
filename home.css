@@ -1,0 +1,57 @@
+body {
+  font-family: 'Raleway';
+  text-align: center;
+  background-color: #eeeeee;
+}
+
+.banner img {
+  margin-top: -10px;
+  width: auto;
+  height: 600px;
+}
+
+h2 {
+  margin-top: 55px;
+  font-size: 40px;
+}
+
+.contact-form {
+  padding-top: 10px;
+  margin-top: -40px;
+}
+
+#mc_embed_signup {
+  clear:left;
+  font:14px 'Raleway';
+  width:100%;
+}
+
+.hidden {
+  position: absolute;
+  left: -5000px;
+}
+.button {
+  background-color: #00c4ff;
+  height: 50px;
+  width: 120px;
+  border-radius: 5px;
+  color: white;
+  font-family: 'Raleway';
+  font-weight: 600;
+  display: inline-block;
+  font-size: 18px;
+}
+
+
+input {
+  height: 50px;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  font-size: 14px;
+  width: 200px;
+  text-align: center;
+}
+.submit {
+  padding-left: 10px;
+  display: inline-block;
+}
