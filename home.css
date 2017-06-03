@@ -42,6 +42,7 @@ h2 {
   font-size: 18px !important;
   border-color: #00c4ff !important;
   text-align: center !important;
+  -webkit-appearance: none !important;
 }
 
 
