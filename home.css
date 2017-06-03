@@ -25,14 +25,6 @@ h2 {
   font:14px 'Raleway';
   width:100%;
   background-color: #00c4ff;
-  height: 50px;
-  width: 120px;
-  border-radius: 5px;
-  color: white;
-  font-family: 'Raleway';
-  font-weight: 600;
-  display: inline-block;
-  font-size: 18px;
 }
 
 .hidden {
