@@ -33,7 +33,7 @@ h2 {
 #mc_embed_signup .button {
   background-color: #00c4ff !important;
   height: 50px !important;
-  width: 120px !important;
+  width: 125px !important;
   border-radius: 5px !important;
   color: white !important;
   font-family: 'Raleway' !important;
@@ -41,6 +41,7 @@ h2 {
   display: inline-block !important;
   font-size: 18px !important;
   border-color: #00c4ff !important;
+  text-align: center !important;
 }
 
 
