@@ -24,6 +24,7 @@ h2 {
   clear:left;
   font:14px 'Raleway';
   width:100%;
+  -webkit-appearance: none !important;
 }
 
 .hidden {
