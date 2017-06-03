@@ -54,6 +54,7 @@ h2 {
   font-size: 14px !important;
   width: 200px !important;
   text-align: center !important;
+  -webkit-appearance: none !important;
 }
 .submit {
   padding-left: 10px;
