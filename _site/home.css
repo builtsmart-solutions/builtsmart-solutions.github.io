@@ -11,11 +11,6 @@ body {
   max-height: 600px;
 }
 
-h2 {
-  margin-top: 55px;
-  font-size: 40px;
-}
-
 .contact-form {
   padding-top: 10px;
   margin-top: -40px;
@@ -70,14 +65,26 @@ input {
   display: inline-block;
 }
 
-@media only screen and (min-width:550px) {
+@media only screen and (max-width:900px) {
+  .banner img {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width:550px) {
   .banner img {
     width: 80%;
   }
 }
 
-@media only screen and (min-width:400px) {
+@media only screen and (max-width:400px) {
   .banner img {
     width: 85%;
+  }
+}
+
+@media only screen and (max-width:300px) {
+  .banner img {
+    width: 90%;
   }
 }
