@@ -7,7 +7,8 @@ body {
 .banner img {
   margin-top: -10px;
   width: auto;
-  height: 600px;
+  height: auto;
+  max-height: 600px;
 }
 
 h2 {
@@ -67,4 +68,16 @@ input {
 .submit {
   padding-left: 10px;
   display: inline-block;
+}
+
+@media only screen and (min-width:550px) {
+  .banner img {
+    width: 80%;
+  }
+}
+
+@media only screen and (min-width:400px) {
+  .banner img {
+    width: 85%;
+  }
 }
